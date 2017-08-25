@@ -8,7 +8,7 @@ Clone the GitHub repository and install the dependencies.
 * Download anaconda or miniconda
 * Create the environment for this project
 ```
-conda create --name dlnd python=3
+$ conda create --name dlnd python=3
 
 ```
 * Enter your new environment:
@@ -18,7 +18,7 @@ conda create --name dlnd python=3
 * Install the following libraries
 
  ```
- conda install numpy matplotlib pandas jupyter notebook
+ $ conda install numpy matplotlib pandas jupyter notebook
 
  ```
 * Clone the repo and go to directory 
